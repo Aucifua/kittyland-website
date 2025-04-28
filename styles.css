@@ -88,6 +88,12 @@
     text-decoration: none;
   }
   
+img {
+    max-width: 100%;
+    height: auto;
+    float: right
+}
+
   .button:hover {
     background-color: #e4ae3c;
   }
